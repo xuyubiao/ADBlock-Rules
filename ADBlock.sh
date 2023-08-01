@@ -30,6 +30,4 @@ ctier=[A-Z] ctier=A 302
 ###
 git status -s
 
-git add .
-git commit 
-git push
+git commit -a
