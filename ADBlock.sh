@@ -27,6 +27,9 @@ ctier=[A-Z] ctier=A 302
 ^https:\/\/[\s\S]*\.googlevideo\.com/.*&(oad|ctier) _ REJECT
 ' >> Shadowrocket-ADBlock-Rules.cfg
 
+###
+git status -s
+
 git add .
 git commit 
 git push
