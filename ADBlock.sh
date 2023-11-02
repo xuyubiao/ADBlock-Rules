@@ -1,4 +1,5 @@
 wget --no-check-certificate http://sbc.io/hosts/alternates/fakenews-gambling-porn/hosts -O - |sed 's/^0.0.0.0 /127.0.0.1 /g' |grep 127.0.0.1 >/tmp/hosts
+wget --no-check-certificate https://anti-ad.net/domains.txt -O - |grep -v '#' |sed 's/^/127.0.0.1 /g' >> /tmp/hosts
 
 cat /tmp/hosts |sed 's/\r//g' | sed 's/127.0.0.1 /DOMAIN-SUFFIX,/g' |sed 's/$/,Reject/g'  > /tmp/union.conf2 
 cat /tmp/union.conf2 | sed 's/\r//g' |grep -v "#"  |sort -du  > /tmp/union.conf3
