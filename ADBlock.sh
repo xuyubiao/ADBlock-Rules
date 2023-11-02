@@ -12,13 +12,20 @@ dns-server = system, 223.5.5.5, 112.124.47.27, 8.8.8.8, 8.8.4.4
 [Rule]
 
 DOMAIN-SUFFIX,ampproject.org,PROXY
-GEOIP,CN,DIRECT
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,PROXY
+DOMAIN-SUFFIX,sentry.io,PROXY
+DOMAIN-SUFFIX,bing.com,PROXY
+DOMAIN-SUFFIX,huggingface.co,PROXY
+DOMAIN-SUFFIX,dapenti.com,PROXY
+DOMAIN-SUFFIX,analysis.windows.net,DIRECT
 
 ' > Shadowrocket-ADBlock-Rules.cfg
 
 cat /tmp/union.conf3 | egrep "^IP-CIDR.*,Reject$|^DOMAIN-SUFFIX.*,Reject$" >> Shadowrocket-ADBlock-Rules.cfg
 
 echo '
+GEOIP,CN,DIRECT
 FINAL,PROXY
 
 [URL Rewrite]
