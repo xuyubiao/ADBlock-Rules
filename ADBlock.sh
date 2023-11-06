@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net,PROXY
 DOMAIN-SUFFIX,sentry.io,PROXY
 DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,huggingface.co,PROXY
-DOMAIN-SUFFIX,dapenti.com,PROXY
+DOMAIN-SUFFIX,missav.com,PROXY
 DOMAIN-SUFFIX,analysis.windows.net,DIRECT
 
 ' > Shadowrocket-ADBlock-Rules.cfg
