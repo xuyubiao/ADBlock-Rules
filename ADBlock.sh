@@ -16,18 +16,18 @@ skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, e.cr
 bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
 dns-server = system, 223.5.5.5, 112.124.47.27, 8.8.8.8, 8.8.4.4
 [Rule]
-DOMAIN-SUFFIX,openai.com,🇺🇸 [V1] 美国・05
-DOMAIN-SUFFIX,chatgpt.com,🇺🇸 [V1] 美国・05
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🇺🇸 [V1] 美国・05
-DOMAIN-SUFFIX,sentry.io,🇺🇸 [V1] 美国・05
-DOMAIN-SUFFIX,segment.io,🇺🇸 [V1] 美国・05
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,chatgpt.com,PROXY
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,PROXY
+DOMAIN-SUFFIX,sentry.io,PROXY
+DOMAIN-SUFFIX,segment.io,PROXY
 DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,huggingface.co,PROXY
 DOMAIN-SUFFIX,zbook.lol,PROXY
 DOMAIN-SUFFIX,missav.com,PROXY
-DOMAIN-SUFFIX,mtalk.google.com,🇺🇸 [V1] 美国・05
-DOMAIN-SUFFIX,bard.google.com,🇺🇸 [V1] 美国・05
-DOMAIN-SUFFIX,claude.ai,🇺🇸 [V1] 美国・05
+DOMAIN-SUFFIX,mtalk.google.com,PROXY
+DOMAIN-SUFFIX,bard.google.com,PROXY
+DOMAIN-SUFFIX,claude.ai,PROXY
 
 DOMAIN-SUFFIX,1password.com,PROXY
 DOMAIN-SUFFIX,adguard.org,PROXY
