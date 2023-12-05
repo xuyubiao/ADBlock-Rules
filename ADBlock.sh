@@ -16,6 +16,9 @@ skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, e.cr
 bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
 dns-server = system, 223.5.5.5, 112.124.47.27, 8.8.8.8, 8.8.4.4
 [Rule]
+DOMAIN-SUFFIX,xuyubiao.cloudns.info,DIRECT
+DOMAIN-SUFFIX,xuyubiao.pages.dev,DIRECT
+
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,PROXY
