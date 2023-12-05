@@ -17,7 +17,7 @@ bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,1
 dns-server = system, 223.5.5.5, 112.124.47.27, 8.8.8.8, 8.8.4.4
 [Rule]
 DOMAIN-SUFFIX,xuyubiao.cloudns.info,DIRECT
-DOMAIN-SUFFIX,xuyubiao.pages.dev,DIRECT
+DOMAIN-SUFFIX,xuyubiao.github.io,DIRECT
 
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
