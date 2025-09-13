@@ -195,7 +195,6 @@ rules:
   - DOMAIN-KEYWORD,xxx,REJECT
   - DOMAIN-KEYWORD,xvideo,REJECT
   - DOMAIN-KEYWORD,gspaceteam,REJECT
-  - DOMAIN-KEYWORD,dt.dbankcloud.cn,REJECT
   - DOMAIN-KEYWORD,admarvel,🛑 全球拦截
   - DOMAIN-KEYWORD,admaster,🛑 全球拦截
   - DOMAIN-KEYWORD,adsage,🛑 全球拦截
