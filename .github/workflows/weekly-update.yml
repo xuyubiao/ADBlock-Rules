@@ -1,0 +1,26 @@
+name: Weekly ADBlock Update
+
+on:
+  schedule:
+    - cron: '20 20 * * 5'
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Run ADBlock update script
+        run: bash fakenews-gambling-porn.sh
+      
+      - name: Commit and push changes
+        if: github.event_name == 'schedule'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Auto update: $(date '+%Y-%m-%d %H:%M')"
+          git push
