@@ -14,3 +14,13 @@ egrep -v '@|!|http:|/' list.txt | sed -E 's#^\|{1,2}(https://)?##' |grep "[a-z]"
 
 rm -f list.txt 2>/dev/null
 
+#####################################################
+AD=https://raw.githubusercontent.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever/master/sr_ad_only.conf
+wget $AD -O  sr_ad_only.conf
+
+grep -v '#'  sr_ad_only.conf |grep -i Reject |awk -F"," '{if(NF==3) print $1","$2}' |sort -du  > AD.list
+
+rm -f   sr_ad_only.conf 2>/dev/null
+#####################################################
+
+
