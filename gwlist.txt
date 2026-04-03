@@ -2289,6 +2289,7 @@ DOMAIN-SUFFIX,or.jp
 DOMAIN-SUFFIX,or.kr
 DOMAIN-SUFFIX,orn.jp
 DOMAIN-SUFFIX,osfoora.com
+DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,otcbtc.com
 DOMAIN-SUFFIX,otto.de
 DOMAIN-SUFFIX,ourdearamy.com
