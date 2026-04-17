@@ -246,6 +246,7 @@ DOMAIN-SUFFIX,avdb.tv
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avidemux.org
+DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,avmoo.pw
 DOMAIN-SUFFIX,avmo.pw
 DOMAIN-SUFFIX,av.movie
@@ -1506,8 +1507,6 @@ DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,hitbtc.com
 DOMAIN-SUFFIX,hiveon.net
 DOMAIN-SUFFIX,hk01.com
-DOMAIN-SUFFIX,hkacg.com
-DOMAIN-SUFFIX,hkacg.net
 DOMAIN-SUFFIX,hkbookcity.com
 DOMAIN-SUFFIX,hkchronicles.com
 DOMAIN-SUFFIX,hkcnews.com
@@ -2079,7 +2078,6 @@ DOMAIN-SUFFIX,muzi.com
 DOMAIN-SUFFIX,muzi.net
 DOMAIN-SUFFIX,muzu.tv
 DOMAIN-SUFFIX,mvg.jp
-DOMAIN-SUFFIX,mx981.com
 DOMAIN-SUFFIX,myaudiocast.com
 DOMAIN-SUFFIX,mybet.com
 DOMAIN-SUFFIX,mychat.to
@@ -2272,6 +2270,7 @@ DOMAIN-SUFFIX,oojj.de
 DOMAIN-SUFFIX,ooni.io
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,opencritic.com
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,openid.net
@@ -3180,6 +3179,7 @@ DOMAIN-SUFFIX,unlock-music.dev
 DOMAIN-SUFFIX,unmineable.com
 DOMAIN-SUFFIX,unseen.is
 DOMAIN-SUFFIX,unstable.icu
+DOMAIN-SUFFIX,unun.dev
 DOMAIN-SUFFIX,unwire.hk
 DOMAIN-SUFFIX,uocn.org
 DOMAIN-SUFFIX,up.audio
@@ -3309,7 +3309,6 @@ DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,vrporn.com
 DOMAIN-SUFFIX,vrsmash.com
 DOMAIN-SUFFIX,vtunnel.com
-DOMAIN-SUFFIX,vuku.cc
 DOMAIN-SUFFIX,vultryhw.com
 DOMAIN-SUFFIX,vzw.com
 DOMAIN-SUFFIX,waffle1999.com
@@ -3484,7 +3483,6 @@ DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,xiaxiaoqiang.net
 DOMAIN-SUFFIX,xicons.org
 DOMAIN-SUFFIX,xinjiangpolicefiles.org
-DOMAIN-SUFFIX,xjp.cc
 DOMAIN-SUFFIX,xjtravelguide.com
 DOMAIN-SUFFIX,xm.com
 DOMAIN-SUFFIX,xml-training-guide.com
