@@ -228,6 +228,7 @@ DOMAIN-SUFFIX,asianews.it
 DOMAIN-SUFFIX,asianfanfics.com
 DOMAIN-SUFFIX,asiansexdiary.com
 DOMAIN-SUFFIX,asiaone.com
+DOMAIN-SUFFIX,asiasociety.org
 DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,askstudent.com
 DOMAIN-SUFFIX,askynz.net
@@ -292,6 +293,7 @@ DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,beijing1989.com
 DOMAIN-SUFFIX,beijing2022.art
 DOMAIN-SUFFIX,beijingspring.com
+DOMAIN-SUFFIX,bellingcat.com
 DOMAIN-SUFFIX,berlinerbericht.de
 DOMAIN-SUFFIX,berlintwitterwall.com
 DOMAIN-SUFFIX,bestvpnanalysis.com
@@ -924,6 +926,7 @@ DOMAIN-SUFFIX,eic-av.com
 DOMAIN-SUFFIX,eireinikotaerukai.com
 DOMAIN-SUFFIX,eksisozluk.com
 DOMAIN-SUFFIX,elconfidencial.com
+DOMAIN-SUFFIX,element.io
 DOMAIN-SUFFIX,elgoog.im
 DOMAIN-SUFFIX,elpais.com
 DOMAIN-SUFFIX,encrypt.me
@@ -1821,6 +1824,7 @@ DOMAIN-SUFFIX,lagranepoca.com
 DOMAIN-SUFFIX,lala.im
 DOMAIN-SUFFIX,lamayeshe.com
 DOMAIN-SUFFIX,landofhope.tv
+DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,laogai.org
 DOMAIN-SUFFIX,laogairesearch.org
 DOMAIN-SUFFIX,laqingdan.net
@@ -2547,6 +2551,7 @@ DOMAIN-SUFFIX,rateyourmusic.com
 DOMAIN-SUFFIX,rationalwiki.org
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,rcinet.ca
 DOMAIN-SUFFIX,rd.com
 DOMAIN-SUFFIX,reabble.com
@@ -2556,6 +2561,7 @@ DOMAIN-SUFFIX,realcourage.org
 DOMAIN-SUFFIX,realitykings.com
 DOMAIN-SUFFIX,reason.com
 DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,recordedfuture.com
 DOMAIN-SUFFIX,redbubble.com
 DOMAIN-SUFFIX,redchinacn.net
 DOMAIN-SUFFIX,redd.it
@@ -2588,6 +2594,7 @@ DOMAIN-SUFFIX,rixcloud.com
 DOMAIN-SUFFIX,rixcloud.us
 DOMAIN-SUFFIX,rlwlw.com
 DOMAIN-SUFFIX,rmbl.ws
+DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,robustnessiskey.com
 DOMAIN-SUFFIX,rocket.chat
 DOMAIN-SUFFIX,rocket-inc.net
@@ -2772,7 +2779,6 @@ DOMAIN-SUFFIX,soup.io
 DOMAIN-SUFFIX,southmongolia.org
 DOMAIN-SUFFIX,south-plus.net
 DOMAIN-SUFFIX,south-plus.org
-DOMAIN-SUFFIX,soylentnews.org
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,sparkpool.com
@@ -2897,6 +2903,7 @@ DOMAIN-SUFFIX,tbsn.org
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,teachparentstech.org
+DOMAIN-SUFFIX,techbang.com
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,techviz.net
 DOMAIN-SUFFIX,teck.in
@@ -2956,6 +2963,7 @@ DOMAIN-SUFFIX,thetibetpost.com
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,thewgo.org
 DOMAIN-SUFFIX,thewirechina.com
+DOMAIN-SUFFIX,thinkchina.sg
 DOMAIN-SUFFIX,thinkgeek.com
 DOMAIN-SUFFIX,thinkingtaiwan.com
 DOMAIN-SUFFIX,thinkwithgoogle.com
