@@ -560,6 +560,7 @@ DOMAIN-SUFFIX,chineseradioseattle.com
 DOMAIN-SUFFIX,chineseupress.com
 DOMAIN-SUFFIX,chingcheong.com
 DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,chonglangtv.org
 DOMAIN-SUFFIX,chosun.com
 DOMAIN-SUFFIX,christianfreedom.org
 DOMAIN-SUFFIX,christianstudy.com
@@ -789,6 +790,7 @@ DOMAIN-SUFFIX,darmau.co
 DOMAIN-SUFFIX,darpa.mil
 DOMAIN-SUFFIX,darrenliuwei.com
 DOMAIN-SUFFIX,dashlane.com
+DOMAIN-SUFFIX,data18.com
 DOMAIN-SUFFIX,datalabour.com
 DOMAIN-SUFFIX,data-vocabulary.org
 DOMAIN-SUFFIX,daum.net
@@ -887,6 +889,7 @@ DOMAIN-SUFFIX,dropbooks.tv
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,dt18.com
 DOMAIN-SUFFIX,dtiblog.com
 DOMAIN-SUFFIX,dtic.mil
 DOMAIN-SUFFIX,dubox.com
