@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,2047.name
 DOMAIN-SUFFIX,2047.one
 DOMAIN-SUFFIX,2049bbs.xyz
 DOMAIN-SUFFIX,233abc.com
+DOMAIN-SUFFIX,24hbook.com
 DOMAIN-SUFFIX,24hrs.ca
 DOMAIN-SUFFIX,32red.com
 DOMAIN-SUFFIX,36rain.com
@@ -995,6 +996,7 @@ DOMAIN-SUFFIX,eyevio.jp
 DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,f2pool.com
 DOMAIN-SUFFIX,f8.com
+DOMAIN-SUFFIX,f95zone.to
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.de
 DOMAIN-SUFFIX,facebook.design
@@ -1168,6 +1170,7 @@ DOMAIN-SUFFIX,g0v.social
 DOMAIN-SUFFIX,gab.com
 DOMAIN-SUFFIX,gabocorp.com
 DOMAIN-SUFFIX,gagaoolala.com
+DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,galenwu.com
 DOMAIN-SUFFIX,game735.com
 DOMAIN-SUFFIX,ganjing.com
@@ -1855,6 +1858,7 @@ DOMAIN-SUFFIX,leisurepro.com
 DOMAIN-SUFFIX,lematin.ch
 DOMAIN-SUFFIX,lemonde.fr
 DOMAIN-SUFFIX,lenwhite.com
+DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,lesoir.be
 DOMAIN-SUFFIX,letscorp.net
 DOMAIN-SUFFIX,le-vpn.com
@@ -1949,6 +1953,7 @@ DOMAIN-SUFFIX,martau.com
 DOMAIN-SUFFIX,martinoei.com
 DOMAIN-SUFFIX,marxist.net
 DOMAIN-SUFFIX,marxists.org
+DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,mastodon.cloud
 DOMAIN-SUFFIX,mastodon.host
 DOMAIN-SUFFIX,mastodon.online
@@ -2142,6 +2147,7 @@ DOMAIN-SUFFIX,ncol.com
 DOMAIN-SUFFIX,ndi.org
 DOMAIN-SUFFIX,ne.jp
 DOMAIN-SUFFIX,nekoslovakia.net
+DOMAIN-SUFFIX,neodb.social 
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,neo-miracle.com
 DOMAIN-SUFFIX,neowin.net
@@ -2565,6 +2571,7 @@ DOMAIN-SUFFIX,radiovncr.com
 DOMAIN-SUFFIX,radmin-vpn.com
 DOMAIN-SUFFIX,rael.org
 DOMAIN-SUFFIX,raggedbanner.com
+DOMAIN-SUFFIX,raphael.app
 DOMAIN-SUFFIX,rapidmoviez.com
 DOMAIN-SUFFIX,rapidvpn.com
 DOMAIN-SUFFIX,rarbgprx.org
@@ -2637,6 +2644,7 @@ DOMAIN-SUFFIX,rtalabel.org
 DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,rti.tw
 DOMAIN-SUFFIX,rts.ch
+DOMAIN-SUFFIX,rule34.us
 DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,rule34.xxx
 DOMAIN-SUFFIX,rumble.com
@@ -2724,6 +2732,7 @@ DOMAIN-SUFFIX,showwe.tw
 DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,shwchurch.org
 DOMAIN-SUFFIX,sidelinesnews.com
+DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,silvergatebank.com
 DOMAIN-SUFFIX,simbolostwitter.com
@@ -2793,6 +2802,7 @@ DOMAIN-SUFFIX,sorting-algorithms.com
 DOMAIN-SUFFIX,sosad.fun
 DOMAIN-SUFFIX,sos.org
 DOMAIN-SUFFIX,sosreader.com
+DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,soulcaliburhentai.net
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,soundofhope.org
@@ -3624,6 +3634,7 @@ DOMAIN-SUFFIX,zenmate.com
 DOMAIN-SUFFIX,zerohedge.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zhangtianliang.com
+DOMAIN-SUFFIX,zhangzhehan.net
 DOMAIN-SUFFIX,zhanlve.org
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
