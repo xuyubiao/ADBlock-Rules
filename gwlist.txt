@@ -2346,7 +2346,6 @@ DOMAIN-SUFFIX,pachosting.com
 DOMAIN-SUFFIX,pacom.mil
 DOMAIN-SUFFIX,pacopacomama.com
 DOMAIN-SUFFIX,page.link
-DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,paimon.moe
 DOMAIN-SUFFIX,palworldgame.com
 DOMAIN-SUFFIX,pancakeswap.finance
@@ -2899,6 +2898,7 @@ DOMAIN-SUFFIX,supervpn.net
 DOMAIN-SUFFIX,surfeasy.com
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,surrenderat20.net
+DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,swagbucks.com
 DOMAIN-SUFFIX,swapspace.co
 DOMAIN-SUFFIX,swissinfo.ch
@@ -3497,6 +3497,7 @@ DOMAIN-SUFFIX,wowgirls.com
 DOMAIN-SUFFIX,wowhead.com
 DOMAIN-SUFFIX,wowporn.com
 DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wpoforum.com
 DOMAIN-SUFFIX,w-pool.com
 DOMAIN-SUFFIX,writesonic.com
