@@ -1915,6 +1915,7 @@ DOMAIN-SUFFIX,lenwhite.com
 DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,lesoir.be
 DOMAIN-SUFFIX,letscorp.net
+DOMAIN-SUFFIX,level-plus.net
 DOMAIN-SUFFIX,le-vpn.com
 DOMAIN-SUFFIX,lexica.art
 DOMAIN-SUFFIX,liangyou.net
@@ -3205,6 +3206,7 @@ DOMAIN-SUFFIX,trtworld.com
 DOMAIN-SUFFIX,truebuddha-md.org
 DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-SUFFIX,tryai.dev
 DOMAIN-SUFFIX,tryheart.jp
 DOMAIN-SUFFIX,tt1069.com
 DOMAIN-SUFFIX,tttan.com
@@ -3444,6 +3446,7 @@ DOMAIN-SUFFIX,vpnvip.com
 DOMAIN-SUFFIX,vporn.com
 DOMAIN-SUFFIX,vpsxb.net
 DOMAIN-SUFFIX,vrchat.com
+DOMAIN-SUFFIX,v.recipes
 DOMAIN-SUFFIX,vrporn.com
 DOMAIN-SUFFIX,vrsmash.com
 DOMAIN-SUFFIX,vtunnel.com
