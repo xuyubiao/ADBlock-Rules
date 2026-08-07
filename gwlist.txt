@@ -512,6 +512,7 @@ DOMAIN-SUFFIX,cellulo.info
 DOMAIN-SUFFIX,cenews.eu
 DOMAIN-SUFFIX,centerforhumanreprod.com
 DOMAIN-SUFFIX,centralnation.com
+DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,c-est-simple.com
 DOMAIN-SUFFIX,cfr.org
@@ -597,7 +598,6 @@ DOMAIN-SUFFIX,civilmedia.tw
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,cixiaoya.club
 DOMAIN-SUFFIX,ck101.com
-DOMAIN-SUFFIX,clashverge.dev
 DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,claude.ai
@@ -2155,7 +2155,6 @@ DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,mos.ru
 DOMAIN-SUFFIX,movements.org
 DOMAIN-SUFFIX,moviefap.com
-DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,moztw.org
 DOMAIN-SUFFIX,mpettis.com
 DOMAIN-SUFFIX,mpfinance.com
@@ -2302,6 +2301,7 @@ DOMAIN-SUFFIX,ns.ci
 DOMAIN-SUFFIX,ntd.tv
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,ntdtv.cz
+DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,nuexpo.com
 DOMAIN-SUFFIX,nu.nl
 DOMAIN-SUFFIX,nurgo-software.com
@@ -2604,7 +2604,6 @@ DOMAIN-SUFFIX,pullfolio.co
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,pureconcepts.net
-DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,pureinsight.org
 DOMAIN-SUFFIX,purepdf.com
 DOMAIN-SUFFIX,purevpn.com
@@ -2638,7 +2637,6 @@ DOMAIN-SUFFIX,radio.co
 DOMAIN-SUFFIX,radio-en-ligne.fr
 DOMAIN-SUFFIX,radio.garden
 DOMAIN-SUFFIX,radiohilight.net
-DOMAIN-SUFFIX,radiojar.com
 DOMAIN-SUFFIX,radioline.co
 DOMAIN-SUFFIX,radiovaticana.org
 DOMAIN-SUFFIX,radiovncr.com
@@ -2734,7 +2732,6 @@ DOMAIN-SUFFIX,sadpanda.us
 DOMAIN-SUFFIX,safechat.com
 DOMAIN-SUFFIX,safeguarddefenders.com
 DOMAIN-SUFFIX,safervpn.com
-DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,sakuralive.com
 DOMAIN-SUFFIX,sandscotaicentral.com
 DOMAIN-SUFFIX,sankakucomplex.com
