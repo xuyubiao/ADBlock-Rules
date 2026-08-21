@@ -414,6 +414,7 @@ DOMAIN-SUFFIX,break.com
 DOMAIN-SUFFIX,breakgfw.com
 DOMAIN-SUFFIX,breakingtweets.com
 DOMAIN-SUFFIX,breakwall.net
+DOMAIN-SUFFIX,briarproject.org
 DOMAIN-SUFFIX,brill.com
 DOMAIN-SUFFIX,brizzly.com
 DOMAIN-SUFFIX,broadpressinc.com
@@ -528,6 +529,7 @@ DOMAIN-SUFFIX,chaos.social
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chatpdf.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,checkgfw.com
@@ -2348,6 +2350,7 @@ DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okpool.me
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,oldmapsonline.org
 DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,olevod.com
@@ -3550,6 +3553,7 @@ DOMAIN-SUFFIX,williamhill.com
 DOMAIN-SUFFIX,willw.net
 DOMAIN-SUFFIX,wilsoncenter.org
 DOMAIN-SUFFIX,windscribe.com
+DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,wingamestore.com
 DOMAIN-SUFFIX,wingy.site
 DOMAIN-SUFFIX,wionews.com
