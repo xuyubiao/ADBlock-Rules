@@ -1571,6 +1571,7 @@ DOMAIN-SUFFIX,himalayan-foundation.org
 DOMAIN-SUFFIX,himemix.com
 DOMAIN-SUFFIX,hindustantimes.com
 DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,historylines.net
 DOMAIN-SUFFIX,hitbtc.com
 DOMAIN-SUFFIX,hive.blog
 DOMAIN-SUFFIX,hiveon.net
@@ -1867,6 +1868,7 @@ DOMAIN-SUFFIX,kindle4rss.com
 DOMAIN-SUFFIX,kingdomsalvation.org
 DOMAIN-SUFFIX,kinmen.travel
 DOMAIN-SUFFIX,kinokuniya.com
+DOMAIN-SUFFIX,kiwix.org
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kknews.cc
 DOMAIN-SUFFIX,knowyourmeme.com
@@ -2038,6 +2040,7 @@ DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,mattwilcox.net
 DOMAIN-SUFFIX,mcadforums.com
+DOMAIN-SUFFIX,mceindex.com
 DOMAIN-SUFFIX,mcusercontent.com
 DOMAIN-SUFFIX,md-t.org
 DOMAIN-SUFFIX,meansys.com
@@ -2750,6 +2753,7 @@ DOMAIN-SUFFIX,savetibet.de
 DOMAIN-SUFFIX,savetibet.org
 DOMAIN-SUFFIX,savetibetstore.org
 DOMAIN-SUFFIX,saveuighur.org
+DOMAIN-SUFFIX,sb.sb
 DOMAIN-SUFFIX,schema.org
 DOMAIN-SUFFIX,schwab.com
 DOMAIN-SUFFIX,scmp.com
@@ -2809,6 +2813,7 @@ DOMAIN-SUFFIX,shodanhq.com
 DOMAIN-SUFFIX,shooshtime.com
 DOMAIN-SUFFIX,shopee.tw
 DOMAIN-SUFFIX,showwe.tw
+DOMAIN-SUFFIX,shuaiapi.com
 DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,shwchurch.org
 DOMAIN-SUFFIX,sidelinesnews.com
@@ -3596,6 +3601,7 @@ DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wpoforum.com
 DOMAIN-SUFFIX,w-pool.com
+DOMAIN-SUFFIX,write.as
 DOMAIN-SUFFIX,writesonic.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
@@ -3608,6 +3614,7 @@ DOMAIN-SUFFIX,wwitv.com
 DOMAIN-SUFFIX,wxw.cat
 DOMAIN-SUFFIX,wxw.moe
 DOMAIN-SUFFIX,x3guide.com
+DOMAIN-SUFFIX,x86.fr
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,xbabe.com
