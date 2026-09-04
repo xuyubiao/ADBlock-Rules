@@ -1256,6 +1256,7 @@ DOMAIN-SUFFIX,geti2p.net
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getmalus.com
 DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,getmonero.org
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,get.page
 DOMAIN-SUFFIX,getsession.org
@@ -1581,6 +1582,7 @@ DOMAIN-SUFFIX,hkchronicles.com
 DOMAIN-SUFFIX,hkcnews.com
 DOMAIN-SUFFIX,hkcoc.com
 DOMAIN-SUFFIX,hkdc.us
+DOMAIN-SUFFIX,hkej.com
 DOMAIN-SUFFIX,hket.com
 DOMAIN-SUFFIX,hkfaa.com
 DOMAIN-SUFFIX,hkgalden.com
@@ -1948,6 +1950,7 @@ DOMAIN-SUFFIX,lingvodics.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linktr.ee
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,linux.sb
 DOMAIN-SUFFIX,liquiditytp.com
 DOMAIN-SUFFIX,liquidvpn.com
 DOMAIN-SUFFIX,listennotes.com
@@ -2272,6 +2275,7 @@ DOMAIN-SUFFIX,nga.mil
 DOMAIN-SUFFIX,ng.mil
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nic.gov
+DOMAIN-SUFFIX,nicoseiga.jp
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nightswatch.top
 DOMAIN-SUFFIX,nike.com
