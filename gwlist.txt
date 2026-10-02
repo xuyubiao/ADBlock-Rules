@@ -1215,6 +1215,7 @@ DOMAIN-SUFFIX,futuremessage.org
 DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,fututrustee.com
+DOMAIN-SUFFIX,fuyin116.com
 DOMAIN-SUFFIX,fw.cm
 DOMAIN-SUFFIX,fxcm-chinese.com
 DOMAIN-SUFFIX,fxnetworks.com
@@ -1327,6 +1328,7 @@ DOMAIN-SUFFIX,golden-ages.org
 DOMAIN-SUFFIX,goldeneyevault.com
 DOMAIN-SUFFIX,goldenfrog.com
 DOMAIN-SUFFIX,goldwave.com
+DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,gongm.in
 DOMAIN-SUFFIX,gooday.xyz
 DOMAIN-SUFFIX,goodhope.school
@@ -2183,6 +2185,7 @@ DOMAIN-SUFFIX,mthruf.com
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,multiply.com
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,muzi.com
 DOMAIN-SUFFIX,muzi.net
@@ -2638,6 +2641,7 @@ DOMAIN-SUFFIX,qiangyou.org
 DOMAIN-SUFFIX,qianmo.tw
 DOMAIN-SUFFIX,qi-gong.me
 DOMAIN-SUFFIX,qiwen.lu
+DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,qoos.com
 DOMAIN-SUFFIX,qstatus.com
 DOMAIN-SUFFIX,qtrac.eu
@@ -2754,6 +2758,7 @@ DOMAIN-SUFFIX,sadpanda.us
 DOMAIN-SUFFIX,safechat.com
 DOMAIN-SUFFIX,safeguarddefenders.com
 DOMAIN-SUFFIX,safervpn.com
+DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,sakuralive.com
 DOMAIN-SUFFIX,sandscotaicentral.com
 DOMAIN-SUFFIX,sankakucomplex.com
@@ -3391,6 +3396,7 @@ DOMAIN-SUFFIX,valeursactuelles.com
 DOMAIN-SUFFIX,vansky.com
 DOMAIN-SUFFIX,vaticannews.va
 DOMAIN-SUFFIX,vatn.org
+DOMAIN-SUFFIX,vava8.com
 DOMAIN-SUFFIX,vcfbuilder.org
 DOMAIN-SUFFIX,vcf-online.org
 DOMAIN-SUFFIX,veed.io
@@ -3479,6 +3485,7 @@ DOMAIN-SUFFIX,waffle1999.com
 DOMAIN-SUFFIX,wainao.me
 DOMAIN-SUFFIX,walletconnect.com
 DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,wallmama.com
 DOMAIN-SUFFIX,wallpapercasa.com
 DOMAIN-SUFFIX,wallsttv.com
