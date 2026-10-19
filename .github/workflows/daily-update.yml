@@ -1,0 +1,26 @@
+name: Daily AI List Update
+
+on:
+  schedule:
+    - cron: '20 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Run AI list update script
+        run: bash ai-list.sh
+      
+      - name: Commit and push changes
+        if: github.event_name == 'schedule'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add AI.list
+          git diff --staged --quiet || git commit -m "Auto update AI.list: $(date '+%Y-%m-%d %H:%M')"
+          git push
