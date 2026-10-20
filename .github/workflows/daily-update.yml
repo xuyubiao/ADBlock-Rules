@@ -17,7 +17,6 @@ jobs:
         run: bash ai-list.sh
       
       - name: Commit and push changes
-        if: github.event_name == 'schedule'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
