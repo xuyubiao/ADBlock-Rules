@@ -1849,6 +1849,7 @@ DOMAIN-SUFFIX,journalofdemocracy.org
 DOMAIN-SUFFIX,jqueryui.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jshell.net
+DOMAIN-SUFFIX,jspm.io
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,jukujo-club.com
 DOMAIN-SUFFIX,juliepost.com
@@ -3338,6 +3339,7 @@ DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,tycool.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,typepad.com
+DOMAIN-SUFFIX,typesafe.ai
 DOMAIN-SUFFIX,typeset.io
 DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,u15.info
