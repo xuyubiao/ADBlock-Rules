@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,10musume.com
 DOMAIN-SUFFIX,111666.best
 DOMAIN-SUFFIX,123av.com
 DOMAIN-SUFFIX,123av.me
+DOMAIN-SUFFIX,123av.org
 DOMAIN-SUFFIX,12bet.com
 DOMAIN-SUFFIX,12vpn.com
 DOMAIN-SUFFIX,12vpn.net
@@ -252,6 +253,7 @@ DOMAIN-SUFFIX,athenaeizou.com
 DOMAIN-SUFFIX,atlanta168.com
 DOMAIN-SUFFIX,atnext.com
 DOMAIN-SUFFIX,audacy.com
+DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,av01.tv
 DOMAIN-SUFFIX,avaaz.org
@@ -427,6 +429,7 @@ DOMAIN-SUFFIX,brookings.edu
 DOMAIN-SUFFIX,br.st
 DOMAIN-SUFFIX,brutaltgp.com
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.chat
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bt4g.org
@@ -612,7 +615,10 @@ DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,clearsurance.com
 DOMAIN-SUFFIX,clementine-player.org
 DOMAIN-SUFFIX,clinica-tibet.ru
@@ -993,6 +999,7 @@ DOMAIN-SUFFIX,erodoujinlog.com
 DOMAIN-SUFFIX,erodoujinworld.com
 DOMAIN-SUFFIX,eromangadouzin.com
 DOMAIN-SUFFIX,eromanga-kingdom.com
+DOMAIN-SUFFIX,eroterest.net
 DOMAIN-SUFFIX,eslite.com
 DOMAIN-SUFFIX,esurance.com
 DOMAIN-SUFFIX,etherdelta.com
@@ -1885,6 +1892,7 @@ DOMAIN-SUFFIX,khatrimaza.org
 DOMAIN-SUFFIX,kichiku-doujinko.com
 DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,killwall.com
+DOMAIN-SUFFIX,kimootoko.net
 DOMAIN-SUFFIX,kindle4rss.com
 DOMAIN-SUFFIX,kingdomsalvation.org
 DOMAIN-SUFFIX,kinmen.travel
@@ -2130,6 +2138,7 @@ DOMAIN-SUFFIX,mingshengbao.com
 DOMAIN-SUFFIX,minhhue.net
 DOMAIN-SUFFIX,miningpoolhub.com
 DOMAIN-SUFFIX,ministrybooks.org
+DOMAIN-SUFFIX,minkch.com
 DOMAIN-SUFFIX,minzhuzhongguo.org
 DOMAIN-SUFFIX,miraheze.org
 DOMAIN-SUFFIX,miroguide.com
@@ -2317,6 +2326,9 @@ DOMAIN-SUFFIX,nitter.net
 DOMAIN-SUFFIX,niu.moe
 DOMAIN-SUFFIX,niusnews.com
 DOMAIN-SUFFIX,njactb.org
+DOMAIN-SUFFIX,njav.com
+DOMAIN-SUFFIX,njav.tv
+DOMAIN-SUFFIX,njavtv.com
 DOMAIN-SUFFIX,nlfreevpn.com
 DOMAIN-SUFFIX,nmsl.website
 DOMAIN-SUFFIX,nnews.eu
@@ -2564,6 +2576,7 @@ DOMAIN-SUFFIX,podictionary.com
 DOMAIN-SUFFIX,podwise.ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,points-media.com
+DOMAIN-SUFFIX,po-kaki-to.com
 DOMAIN-SUFFIX,pokerstars.com
 DOMAIN-SUFFIX,pokerstars.net
 DOMAIN-SUFFIX,pokerstrategy.com
@@ -3829,6 +3842,7 @@ DOMAIN-SUFFIX,zootool.com
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zorrovpn.com
 DOMAIN-SUFFIX,zozotown.com
+DOMAIN-SUFFIX,zozovideo.com
 DOMAIN-SUFFIX,zpn.im
 DOMAIN-SUFFIX,zspeeder.me
 DOMAIN-SUFFIX,zuobiao.me
